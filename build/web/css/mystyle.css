@@ -1,0 +1,20 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 03-Nov-2023, 11:40:54 am
+    Author     : Swaraj kakade
+*/
+
+.primary-background{
+    background: #451952!important;
+}
+
+.secondary-background{
+    background: #AE445A;
+}
+
+.ternary-background{
+    background: #F39F5A;
+}
